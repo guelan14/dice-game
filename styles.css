@@ -10,13 +10,11 @@
   margin:0 10% 0 10%;
 }
 
-
-
-body {
+.bodyContainer {
   background-color: #393E46;
 }
 
-h1 {
+#title {
   margin: 30px;
   font-family: 'Lobster', cursive;
   text-shadow: 5px 0 #232931;
@@ -48,7 +46,9 @@ footer {
 	
 }
 
-
+footer{
+  font-size: 45px;
+}
 .BUTTON_OLV {
   background: #3DF6DC;
   background-image: -webkit-linear-gradient(top, #3DF6DC, #1A8366);
