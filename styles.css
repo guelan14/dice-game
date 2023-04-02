@@ -1,0 +1,75 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+  margin:0 10% 0 10%;
+}
+
+
+
+body {
+  background-color: #393E46;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #4ECCA3;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
+
+.btnCenter{
+  display: flex;
+	justify-content: center;
+	
+}
+
+
+.BUTTON_OLV {
+  background: #3DF6DC;
+  background-image: -webkit-linear-gradient(top, #3DF6DC, #1A8366);
+  background-image: -moz-linear-gradient(top, #3DF6DC, #1A8366);
+  background-image: -ms-linear-gradient(top, #3DF6DC, #1A8366);
+  background-image: -o-linear-gradient(top, #3DF6DC, #1A8366);
+  background-image: -webkit-gradient(to bottom, #3DF6DC, #1A8366);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #000000;
+  font-family: Brush Script MT;
+  font-size: 30px;
+  font-weight: 400;
+  padding: 8px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.BUTTON_OLV:hover {
+  background: #1E62D0;
+}
